@@ -18,8 +18,6 @@ Chamado
 -titulo
 -descricao
 -categoria
--prioridade
--status
 -data_abertura
 -usuario_id
 -tecnico_id
