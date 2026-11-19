@@ -1,26 +1,26 @@
 Sistema Help Desk
 
 Usuário
--id
+-id_usuario
 -nome
 -email
 -senha
 
 Técnico
--id
+-id_tecnico
 -nome
 -email
 -senha
 -especialidade
 
 Chamado
--id
+-id_chamado
 -titulo
 -descricao
 -categoria
 -data_abertura
--usuario_id
--tecnico_id
+-id_usuario
+-id_tecnico
 
 Relacionamento 
 -Um usuário pode abrir vários chamados.
